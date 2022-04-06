@@ -24,4 +24,25 @@ During this project I have learned following things:
   
   •	How to optimize the Machine Learning Model and increase it’s accuracy and reducing the error score.
   
-  
+# Required Installations
+
+Following installations are required in order to run the project:
+
+•	Python 3.x
+
+Following Libraries are used in this project:
+
+•	Numpy
+
+•	Pandas
+
+•	Matplotlib.pyplot
+
+•	Sklearn.model_selection 
+
+•	Sklearn.linear_model
+
+•	Sklearn.metrics
+
+Apart from this I would also recommend to download Anaconda which contains all the pre-packaged Python Libraries and all the other necessary software such as Jupiter Notebook. I have built this entire project in Jupiter Notebook.
+
