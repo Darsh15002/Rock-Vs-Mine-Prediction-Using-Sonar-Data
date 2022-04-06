@@ -13,8 +13,15 @@ For practical purpose the sonar data can be easily collected with the help of a 
 
 The Goal of this project is to accurately predict weather the underwater object outside the submarine is Rock or a Mine using the Sonar Data. In this project I have used the Logistic Regression Supervised Machine Learning Model to classify the object as Rock or a Mine.
 During this project I have learned following things:
+
   •	How to apply Machine learning models and algorithms and techniques on a dataset 
+  
   •	How to collect the data and Pre – process it for analysis and feeding it to the Machine learning model to get the accurate result.
+  
   •	How to perform Exploratory Data Analysis (EDA) on a dataset.
+  
   •	How to choose the right Machine Learning model and algorithm for a given dataset.
+  
   •	How to optimize the Machine Learning Model and increase it’s accuracy and reducing the error score.
+  
+  
