@@ -46,3 +46,18 @@ Following Libraries are used in this project:
 
 Apart from this I would also recommend to download Anaconda which contains all the pre-packaged Python Libraries and all the other necessary software such as Jupiter Notebook. I have built this entire project in Jupiter Notebook.
 
+# Code
+
+The entire code is provided in one file
+
+Apart from this I have also uploaded a PDF of my Jupiter Notebook File in this Repository for a quick reference. 
+
+# Evaluation Metrics 
+
+In this project I have used the Accuracy Score as the evaluation score. Accuracy Score is an evaluation metrics used in the area of Machine Learning Projects used mainly to evaluate the accuracy of the classification model. It is basically the fraction of prediction that the model used in the project got right. Good Accuracy Score in the area of Machine Learning is subjective. However, in general any score greater than 70% is considered as the great model performance.
+
+In my project:
+
+Accuracy Score on Training Data is 83.42%
+
+Accuracy Score on Test Data is 76.19%
